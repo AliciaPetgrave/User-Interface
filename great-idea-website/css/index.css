@@ -71,16 +71,47 @@ h1, h2, h3, h4, h5 {
 }
 
 .links{
-	margin: 4%;
-	display:inline-block;
-	width:80%;
+	margin: 20px;
+	word-spacing: 50px;
+	padding: 2%;
 }
 
 .links a{
-	padding:1%;
-	word-spacing:5%;
+	text-decoration:none;
+	color:grey;
 }
 
-.main-logo{
-	display: inline-block;
+nav{
+	
+}
+
+.nav a {
+	margin: 8%;
+}
+
+.logo{
+	float: right;
+	position: relative top 3px;
+}
+
+header{	
+	display:inline;
+}
+
+.header h1{
+	font-size: 70px;
+	padding: 5%;
+}
+
+.button{
+	text-align:center;
+}
+
+.top-section.features{
+	margin: 0 auto;
+}
+
+.top-section.features{
+	display:inline-block;
+	height: 400px;
 }
